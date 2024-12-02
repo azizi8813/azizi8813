@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Amin Azizi
-- 👀 I'm passionate about Data Analytics and excited to explore this field further. 
-- 🌱 I'm actively learning Data Analytics through various courses. I'll update this section with specific details in the future.
-- 💞️ I'm eager to collaborate on Data Analytics projects!  If you have an interesting project in mind, feel free to reach out.
-- 📫 Contact : I prefer to connect on GitHub.
-- 😄 Pronouns: NA
-- ⚡ Fun fact: Stay tuned! I'll add a fun fact about myself soon.
+With a strong background in engineering and years of experience managing and growing businesses in various industries, I, Amin Azizi, bring a unique combination of analytical skills and practical expertise. I’ve built and led companies in trading, logistics, and ecommerce, gaining hands-on experience in improving processes, solving complex problems, and driving growth. Now transitioning into data analytics, I’m focused on applying my technical mindset and attention to detail to deliver valuable insights that support long-term success and sustainability.
 
-<!---
-azizi8813/azizi8813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can check out some of my projects and contributions on my GitHub profile: azizi8813. I regularly update my repositories with new projects, code snippets, and collaborations that showcase my skills and interests in data analytics and beyond.
